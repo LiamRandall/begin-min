@@ -1,2 +1,0 @@
-# begin-min
-Begin app
